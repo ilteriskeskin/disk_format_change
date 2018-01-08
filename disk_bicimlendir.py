@@ -1,3 +1,9 @@
+""" 
+    Author: Ali İlteriş Keskin
+    Platform: GNU/Linux
+    Version: 0.1.0
+"""
+
 import os
 import time
 

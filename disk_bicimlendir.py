@@ -1,5 +1,4 @@
 import os
-import io
 import time
 
 mavi = '\033[94m'
